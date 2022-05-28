@@ -1,11 +1,11 @@
 # FRASES DO DRAGON BALL Z
 
 <p align="center">
- <img src="dbz_quotes.png?raw=true" alt="Frases do DragonBall Z" width="70%" />
+ <img src="dbz_quotes.png?raw=true" alt="Frases do DragonBall Z" width="70%" height="50% />
 </p>
 
 ## Sobre
-Esse projeto é um gerador de frases aleatórias na temática da série Dragon Ball Z. Ele foi desenvolvido em React no frontend e o consumo das frases foi realizado por uma API em python utilizando o framework flask.
+Esse projeto é um gerador de frases aleatórias na temática da série Dragon Ball Z. Ele foi desenvolvido em React no frontend e o consumo das frases foi realizado por uma API em python utilizando o framework flask. 
 
 ## Tecnologias
 
