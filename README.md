@@ -3,6 +3,7 @@
 <p align="center">
  <img src="dbz_quotes.png?raw=true" alt="Frases do DragonBall Z" width="70%" height="50% />
 </p>
+  
 
 ## **Objetivo**
 Este repositório é um projeto que combina **ReactJS** e **Python** para criar um site que exibe citações icônicas de **Dragon Ball Z**. O backend é uma API em **Flask** que fornece as frases, e o frontend em **ReactJS** consome essas citações e as exibe de maneira interativa.
